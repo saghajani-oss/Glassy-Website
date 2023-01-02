@@ -140,7 +140,7 @@ main {
 
 .active-games h1 {
   font-weight: 700;
-  font-size: 50px;
+  font-size: 40px;
   color: #5d82a9;
 }
 
@@ -148,7 +148,7 @@ main {
   width: 60%;
   background: var(--white-glassy);
   border: none;
-  height: 25px;
+  height: 20px;
   border-radius: 10px;
   padding: 0px 10px;
 }
@@ -160,7 +160,7 @@ main {
   gap: 10%;
   margin: 16px 0px;
   background-color: white;
-  padding: 16px 32px;
+  padding: 8px 32px;
   border-radius: 10px;
   box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.212);
 }
@@ -169,7 +169,7 @@ main {
   color: #5d82a9;
   opacity: 0.8;
   font-weight: 700;
-  font-size: 26px;
+  font-size: 20px;
 }
 
 .game-info p {
